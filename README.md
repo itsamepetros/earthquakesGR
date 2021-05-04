@@ -1,2 +1,2 @@
 # earthquakesGR
-Github page for 
+Github page for educational purposes
