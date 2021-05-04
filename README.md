@@ -1,0 +1,2 @@
+# earthquakesGR
+Github page for 
